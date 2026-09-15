@@ -12,6 +12,4 @@ This version uses the structural/UX approach of the Capwell Industries website a
 - strong CTA
 - detailed footer
 
-It does NOT copy Capwell's text, branding, logo, or proprietary imagery. All company content is for Mama's Choice Millers.
 
-Open `index.html` in a browser to preview.
